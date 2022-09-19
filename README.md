@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<img alt="#6DB33F" src ="https://img.shields.io/badge/-Spring-blue.svg?style=plastic"/>
+#### :computer:Tech Stacks:computer:
+
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-red.svg?&style=plastic&logo=SpringBoot&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=plastic&logo=Java&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-green.svg?&style=plastic&logo=cplusplus&logoColor=white"/> 
+<img alt="C" src ="https://img.shields.io/badge/C-ff69b4.svg?&style=plastic&logo=c&logoColor=white"/> 
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-yellow.svg?&style=plastic&logo=mysql&logoColor=white"/> 
+
+
 
 
 [![Sup's github stats](https://github-readme-stats.vercel.app/api?username=LHS-11&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
