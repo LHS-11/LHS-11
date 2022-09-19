@@ -2,10 +2,13 @@
 
 #### :computer:Tech Stacks:computer:
 
-<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-red.svg?&style=plastic&logo=SpringBoot&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=plastic&logo=Java&logoColor=white"/>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white"/> <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-red.svg?&style=plastic&logo=SpringBoot&logoColor=white"/>
+<img alt="Security" src ="https://img.shields.io/badge/Spring Security-blue.svg?&style=plastic&logo=springsecurity&logoColor=white"/> 
+<img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=plastic&logo=Java&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-green.svg?&style=plastic&logo=cplusplus&logoColor=white"/> 
 <img alt="C" src ="https://img.shields.io/badge/C-ff69b4.svg?&style=plastic&logo=c&logoColor=white"/> 
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-yellow.svg?&style=plastic&logo=mysql&logoColor=white"/> 
+<img alt="git" src ="https://img.shields.io/badge/Git-brightgreen.svg?&style=plastic&logo=git&logoColor=white"/> 
 
 
 
