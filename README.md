@@ -10,7 +10,6 @@
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-yellow.svg?&style=plastic&logo=mysql&logoColor=white"/> 
 <img alt="git" src ="https://img.shields.io/badge/Git-brightgreen.svg?&style=plastic&logo=git&logoColor=white"/> 
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghktjq1119)](https://solved.ac/ghktjq1119/)
 
 [![Sup's github stats](https://github-readme-stats.vercel.app/api?username=LHS-11&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
