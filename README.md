@@ -1,4 +1,5 @@
 ### Hi there 👋
+도전을 즐기는 개발자입니다!
 
 #### :computer:Tech Stacks:computer:
 
